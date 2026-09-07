@@ -1,8 +1,0 @@
-streamlit
-joblib
-numpy>=2.0
-pandas
-Pillow
-scikit-learn
-Orange3
-Orange3-ImageAnalytics
