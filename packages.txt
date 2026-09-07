@@ -1,0 +1,4 @@
+libgl1
+libegl1
+libxkbcommon0
+libdbus-1-3
